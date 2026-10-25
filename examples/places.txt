@@ -1,0 +1,4 @@
+# One place per line: a URL from any Tripadvisor country site, a place ID, or a name with the city.
+https://www.tripadvisor.co.uk/Restaurant_Review-g60763-d424434-Reviews-Le_Bernardin-New_York_City_New_York.html
+188151
+Louvre Museum Paris
